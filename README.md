@@ -5,6 +5,10 @@
 > 使用其他人的模板，将zip文件安装到
 >
 > C:\Users<username>\Documents\Visual Studio 2012\My Exported Templates\
+>
+> 模板路径不清楚的 参考 
+>
+> https://learn.microsoft.com/zh-cn/visualstudio/ide/how-to-create-item-templates?view=vs-2022
 
 > 每种模板都包含简单的描述信息
 
