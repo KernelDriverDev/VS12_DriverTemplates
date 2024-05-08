@@ -8,6 +8,10 @@
 
 > 每种模板都包含简单的描述信息
 
+> ps:  每种模板都简单做过测试 不会触发BSOD
+
+![image-20240508152804992](README.assets/image-20240508152804992.png)
+
 
 
 ## SimpleBlank
