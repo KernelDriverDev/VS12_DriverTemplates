@@ -12,7 +12,7 @@
 
 > 每种模板都包含简单的描述信息
 
-> ps:  每种模板都简单做过测试 不会触发BSOD
+> ps:  每种模板都简单做过测试 不会触发BSOD    (测试平台 :  windows server 2008 r2 x64)
 
 ![image-20240508152804992](README.assets/image-20240508152804992.png)
 
@@ -33,3 +33,12 @@
 ## Minifilter
 
 > minifilter   对文件IRP 创建，读取，写入，设置信息进行监控和拦截。
+
+
+
+## Minifilter2
+
+> 使用文件后缀,  当前IRP发起方进程名称进行拦截  默认是cmd, powershell进程
+
+![image-20240510090541836](README.assets/image-20240510090541836.png)
+
