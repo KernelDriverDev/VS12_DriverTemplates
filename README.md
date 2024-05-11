@@ -4,7 +4,7 @@
 
 > 使用其他人的模板，将zip文件安装到
 >
-> C:\Users<username>\Documents\Visual Studio 2012\My Exported Templates\
+> C:\Users<username>\Documents\Visual Studio 2012\Templates\ProjectTemplates
 >
 > 模板路径不清楚的 参考 
 >
