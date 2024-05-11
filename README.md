@@ -42,3 +42,21 @@
 
 ![image-20240510090541836](README.assets/image-20240510090541836.png)
 
+
+
+## ProcessThreadImageCallback
+
+> 进程，线程，Image通知回调
+>
+> 默认进程创建阻止规则是  Office进程创建cmd, powershell进程
+
+![image-20240511132141128](README.assets/image-20240511132141128.png)
+
+
+
+- [ ] 驱动联动监控Web和系统服务创建敏感进程
+- [ ] 创建线程联动用户态程序扫描进程创建线程的内存   reference  wdfilter.sys
+- [ ] Image加载  Dll Hijacking Detect
+
+
+
